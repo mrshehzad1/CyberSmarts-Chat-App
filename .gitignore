@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+*.pyc
+__pycache__/
+
+# Development tool folders
+.idea/
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Secrets
+.env
+
+# env   
+.venv/
+
+# Others
+scratchpad/
