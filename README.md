@@ -1,6 +1,6 @@
-# Samantha OS¹ (Her)
+# CyberSmarts Chat App
 
-Samantha is an AI assistant inspired by the movie *Her*. This project is built to provide real-time voice interactions using the Realtime API and Chainlit. Samantha acts as an agent that calls various tools to handle user requests, such as querying stock prices, generating images, and creating Python scripts.
+Samantha is an AI assistant Helping Troy Williams in his dissertations. This project is built to provide real-time voice interactions using the Realtime API and Chainlit. Samantha acts as an agent that calls various tools to handle user requests, such as Answering from knowledgebase using make.com, querying stock prices, generating images, and creating Python scripts.
 
 ## Setup and Running
 
@@ -62,7 +62,3 @@ This project includes several powerful tools:
 ## License
 
 This project is licensed under the MIT License.
-
----
-
-¹ Samantha OS is inspired by the movie *Her*, but it is not affiliated with or endorsed by any related entities.
